@@ -1,4 +1,14 @@
-## Cost-Efficient AWS Project: Real-Time Data Analytics Pipeline
+
+## Project: Cost-Efficient AWS Project: Real-Time Data Analytics Pipeline
+
+## Author/Programmer:
+** Daniel Costelloe **  
+GitHub: [@DanielCostelloe](https://github.com/DanielCostelloe)  
+
+This project was created as part of my personal AWS development journey to design scalable, real-time cloud architectures.  
+It demonstrates my ability to use Infrastructure-as-Code, serverless compute, and event-driven design patterns.
+
+I welcome feedback, collaboration, and suggestions — feel free to reach out or fork the project!
 
 ### Objective
 
@@ -56,3 +66,6 @@ Sends events to your Kinesis stream.
 - AWS CDK
 
 This project is serverless, scalable, and cost-efficient.
+
+---
+
